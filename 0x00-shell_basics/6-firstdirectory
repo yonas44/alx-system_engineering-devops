@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-mkdir /tmp/my_first_directory
-=======
 mkdir/tmp/my_first_directory
->>>>>>> master
